@@ -1,5 +1,7 @@
 # Java-养老驿站管理系统-毕业设计 
 ![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20220416-204124@2x.png "登陆界面.png")
+
+**系统功能持续更新中。。。**
 #### 介绍
  **SpringBoot2.X VUE2.6 Antd1.7.2  MyBatisPlus Shiro1.5.0 Java1.8 管理系统 JVM 权限设计 可作为毕业设计和快速开发 养老驿站系统** 
 #### 项目所用技术
