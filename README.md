@@ -4,7 +4,7 @@
 ------------
 
 
-![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20220416-204124@2x.png "登陆界面.png")
+![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20221227-173307@2x.png "登陆界面.png")
 
 **系统功能持续更新中。。。**
 #### 介绍
@@ -68,102 +68,127 @@
 **为了让读者更好地理解系统技术原理，功能实现方法，故特地准备了系统技术文档，里面包含系统所使用的主要技术框架，运行说明，系统表设计，模块设计等。**
 #### 系统技术文档截图
 
-![系统技术文档截图](https://skywalking.pro/download/images/aged-stage/WX20220416-212107@2x.png "系统技术文档截图.png")
+![系统技术文档截图](https://skywalking.pro/download/images/aged-stage/WX20221227-173546@2x.png "系统技术文档截图.png")
 
 ### 项目代码展示
 
 #### 前端VUE代码截图展示
 
-![前端VUE代码截图展示](https://skywalking.pro/download/images/aged-stage/WX20220416-212205@2x.png "前端VUE代码截图展示.png")
+![前端VUE代码截图展示](https://skywalking.pro/download/images/aged-stage/WX20221227-173816@2x.png "前端VUE代码截图展示.png")
 
 #### 后端Java代码截图展示
 
-![后端Java代码截图展示](https://skywalking.pro/download/images/aged-stage/WX20220416-212323@2x.png "后端Java代码截图展示.png")
+![后端Java代码截图展示](https://skywalking.pro/download/images/aged-stage/WX20221227-173847@2x.png "后端Java代码截图展示.png")
 
 #### 数据库表结构展示
 
-![数据库表结构展示](https://skywalking.pro/download/images/aged-stage/WX20220416-212410@2x.png "数据库表结构展示.png")
+![数据库表结构展示](https://skywalking.pro/download/images/aged-stage/WX20221227-173930@2x.png "数据库表结构展示.png")
 
 ### 系统截图展示
 #### 系统登陆
 - 登陆界面
 
-![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20220416-212447@2x.png "登陆界面.png")
+![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20221227-173307@2x.png "登陆界面.png")
 
 #### 系统管理模块
 
 - 系统主页
 
-![系统主页](https://www.skywalking.pro/download/images/health-platform/WX20220412-182759@2x.png "系统主页.png")
 
-![系统主页](https://skywalking.pro/download/images/aged-stage/WX20220416-212530@2x.png "系统主页.png")
+![系统主页](https://skywalking.pro/download/images/aged-stage/WX20221227-174112@2x.png "系统主页.png")
 
-![图表统计](https://skywalking.pro/download/images/aged-stage/WX20220416-212622@2x.png "图表统计.png")
+![图表统计](https://skywalking.pro/download/images/aged-stage/WX20221227-174200@2x.png "图表统计.png")
 
 - 菜单管理
 
-![菜单管理](https://skywalking.pro/download/images/aged-stage/WX20220416-212712@2x.png "菜单管理.png")
+![菜单管理](https://skywalking.pro/download/images/aged-stage/WX20221227-174234@2x.png "菜单管理.png")
 
-![菜单管理](https://skywalking.pro/download/images/aged-stage/WX20220416-212804@2x.png "菜单管理.png")
+![菜单管理](https://skywalking.pro/download/images/aged-stage/WX20221227-174315@2x.png "菜单管理.png")
 
 - 角色管理
 
-![角色管理](https://skywalking.pro/download/images/aged-stage/WX20220416-212920@2x.png "角色管理.png")
+![角色管理](https://skywalking.pro/download/images/aged-stage/WX20221227-174351@2x.png "角色管理.png")
 
 - 系统用户管理
 
-![系统用户](https://skywalking.pro/download/images/aged-stage/WX20220416-213006@2x.png "系统用户.png")
+![系统用户](https://skywalking.pro/download/images/aged-stage/WX20221227-174427@2x.png "系统用户.png")
 
-![系统用户](https://skywalking.pro/download/images/aged-stage/WX20220416-213056@2x.png
- "系统用户.png")
+![系统用户](https://skywalking.pro/download/images/aged-stage/WX20221227-174504@2x.png
+ "系统用户编辑.png")
 
 #### 系统监控模块
 
 - 系统日志
 
-![系统日志](https://skywalking.pro/download/images/aged-stage/WX20220416-213150@2x.png "系统日志.png")
+![系统日志](https://skywalking.pro/download/images/aged-stage/WX20221227-174547@2x.png "系统日志.png")
 
 #### 业务模块
 
 - 老人管理
 
-![老人管理](https://skywalking.pro/download/images/aged-stage/WX20220416-213242@2x.png "WX20220416-213242@2x.png" "老人管理.png")
+![老人管理](https://skywalking.pro/download/images/aged-stage/WX20221227-174841@2x.png
+ "老人管理")
+
+- 健康数据
+
+![老人管理](https://skywalking.pro/download/images/aged-stage/WX20221227-174940@2x.png
+ "健康数据")
 
 - 床位管理
 
-![床位管理](https://skywalking.pro/download/images/aged-stage/WX20220416-213327@2x.png "WX20220416-213327@2x.png" "床位管理.png")
+![床位管理](https://skywalking.pro/download/images/aged-stage/WX20221227-175110@2x.png
+ "床位管理")
 
 - 护工管理
 
-![护工管理](https://skywalking.pro/download/images/aged-stage/WX20220416-213436@2x.png "WX20220416-213436@2x.png" "护工管理.png")
+![护工管理](https://skywalking.pro/download/images/aged-stage/WX20221227-175743@2x.png "护工管理.png")
 
 - 亲属管理
 
-![亲属管理](https://skywalking.pro/download/images/aged-stage/WX20220416-213521@2x.png "亲属管理.png")
+![亲属管理](https://skywalking.pro/download/images/aged-stage/WX20221227-175826@2x.png "亲属管理.png")
 
 - 探访申请信息
 
-![探访申请信息](https://skywalking.pro/download/images/aged-stage/WX20220416-213607@2x.png "探访申请信息.png")
+![探访申请信息](https://skywalking.pro/download/images/aged-stage/WX20221227-175902@2x.png "探访申请信息.png")
 
 - 缴费信息
 
-![缴费信息](https://skywalking.pro/download/images/aged-stage/WX20220416-213702@2x.png "缴费信息.png")
+![缴费信息](https://skywalking.pro/download/images/aged-stage/WX20221227-175947@2x.png "缴费信息.png")
 
 - 维修信息
 
-![缴费信息](https://skywalking.pro/download/images/aged-stage/WX20220416-213746@2x.png "维修信息.png")
+![缴费信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180024@2x.png "维修信息.png")
+
+- 活动信息
+
+![缴费信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180142@2x.png "活动信息.png")
 
 - 护工薪资信息
 
-![护工薪资信息](https://skywalking.pro/download/images/aged-stage/WX20220416-213844@2x.png "护工薪资信息.png")
+![护工薪资信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180240@2x.png "护工薪资信息.png")
 
 - 护工假勤信息
 
-![护工假勤信息](https://skywalking.pro/download/images/aged-stage/WX20220416-213938@2x.png "护工假勤信息.png")
+![护工假勤信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180357@2x.png "护工假勤信息.png")
+
+- 健康服务预约
+
+![护工假勤信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180428@2x.png "健康服务预约.png")
 
 - 床位分配信息
 
-![床位分配信息](https://skywalking.pro/download/images/aged-stage/WX20220416-214110@2x.png "床位分配信息.png")
+![床位分配信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180517@2x.png "床位分配信息.png")
+
+- 资讯信息
+
+![资讯信息](https://skywalking.pro/download/images/aged-stage/WX20221227-180556@2x.png "资讯信息.png")
+
+![资讯信息新增](https://skywalking.pro/download/images/aged-stage/WX20221227-180655@2x.png "资讯信息新增.png")
+
+![资讯信息查看](https://skywalking.pro/download/images/aged-stage/WX20221227-180744@2x.png "资讯信息查看.png")
+
+
+
 
 #### 系统功能模块概要
 + 系统登陆
@@ -204,6 +229,13 @@
 	* 老人信息修改
     + 老人信息批量删除
 	+ 老人信息单个删除
++ 健康数据
+  - 健康数据管理
+    * 健康数据条件查询
+    + 健康数据新增
+	* 健康数据修改
+    + 健康数据批量删除
+	+ 健康数据单个删除
 + 床位信息
   - 床位信息管理
     * 床位信息条件查询
@@ -239,6 +271,13 @@
 	* 维修信息修改
     + 维修信息批量删除
 	+ 维修信息单个删除
++ 活动信息
+  - 活动管理
+    * 活动条件查询
+    + 活动新增
+	* 活动修改
+    + 活动批量删除
+	+ 活动单个删除
 + 护工薪资信息
   - 护工薪资管理
     * 护工薪资条件查询
@@ -249,13 +288,29 @@
 + 护工假勤信息
   - 护工假勤管理
     * 护工假勤信息条件查询
-    + 护工假勤信息新增
+    + 护工假勤信息新增（提交）
 	* 护工假勤信息修改
     + 护工假勤信息批量删除
 	+ 护工假勤信息单个删除
++ 健康服务预约
+  - 服务预约
+    * 服务预约信息条件查询
+	+ 服务预约信息新增（提交预约）
+	* 服务预约信息修改
+    + 服务预约信息批量删除
+	+ 服务预约信息单个删除
 + 床位分配信息
   - 床位分配管理
     * 床位分配信息条件查询
++ 咨询信息管理
+  - 咨询信息管理
+    * 咨询信息条件查询
+    + 咨询信息新增（提交）
+	* 咨询信息修改
+    + 咨询信息批量删除
+	+ 咨询信息单个删除
+  - 咨询信息查看
+    * 咨询信息查看
 #### 演示地址
 ```
 登录地址: https://www.skywalking.pro/aged-stage
