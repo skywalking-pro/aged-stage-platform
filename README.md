@@ -1,11 +1,10 @@
-# Java-养老驿站管理系统-毕业设计 
-
-
-------------
-
+# Java-养老驿站管理系统-毕业设计
 
 ![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20230907-092230@2x.png "登陆界面.png")
 
+####  **联系作者** 
+
+![联系作者](https://skywalking.pro/download/platform/main-platform.png "联系作者.png")
 
 ####  **联系作者** 
 
