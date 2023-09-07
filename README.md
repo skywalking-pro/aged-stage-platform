@@ -4,7 +4,7 @@
 ------------
 
 
-![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20230128-114954@2x.png "登陆界面.png")
+![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20230907-092230@2x.png "登陆界面.png")
 
 
 ####  **联系作者** 
@@ -106,7 +106,7 @@
 #### 系统登陆
 - 登陆界面
 
-![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20221227-173307@2x.png "登陆界面.png")
+![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20230907-092230@2x.png "登陆界面.png")
 
 #### 系统管理模块
 
