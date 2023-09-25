@@ -1,4 +1,4 @@
-# JavaEE-SpringBoot-养老驿站管理系统-毕业设计
+# Java-养老驿站管理系统-毕业设计
 
 ![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20230907-092230@2x.png "登陆界面.png")
 
@@ -201,9 +201,6 @@
 
 ![资讯信息查看](https://skywalking.pro/download/images/aged-stage/WX20221227-180744@2x.png "资讯信息查看.png")
 
-
-
-
 #### 系统功能模块概要
 + 系统登陆
 + 系统主页
@@ -325,6 +322,16 @@
   + 咨询信息单个删除
   - 咨询信息查看
     * 咨询信息查看
++ 缴费信息管理
+    * 缴费信息条件查询
+    + 缴费信息新增（提交）
+	+ 缴费信息批量删除
+	* 缴费信息查看
++ 药品信息管理
+    * 药品信息条件查询
+    + 药品信息新增（提交）
+	+ 药品信息批量删除
+	* 药品信息查看
 #### 演示地址
 ```
 登录地址: https://www.skywalking.pro/aged-stage
