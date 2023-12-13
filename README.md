@@ -1,4 +1,4 @@
-# Java-养老驿站管理系统-毕业设计
+# 基于Java-SpringBoot-VUE的前后端养老驿站管理系统-毕业设计-源代码
 
 ![登陆界面](https://skywalking.pro/download/images/aged-stage/WX20230907-092230@2x.png "登陆界面.png")
 
